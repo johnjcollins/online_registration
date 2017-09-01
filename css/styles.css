@@ -1,0 +1,22 @@
+/* ===============================
+  Base Element Styles
+=============================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  line-height: 1.6;
+}
+
+
+
+/* ===============================
+  Media Queries
+=============================== */
+
+@media (min-width: 768px) {
+
+}
