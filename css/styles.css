@@ -11,6 +11,12 @@ body {
   line-height: 1.6;
 }
 
+input,
+select,
+textarea {
+  display: block;
+}
+
 
 
 /* ===============================
